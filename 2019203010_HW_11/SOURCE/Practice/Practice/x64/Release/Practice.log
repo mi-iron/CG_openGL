@@ -1,0 +1,8 @@
+﻿  practice.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\GLFW\glfw3.h(3235,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\admin\Desktop\대학생\4학년\심전실 과제\2019203010_HW_11\SOURCE\Practice\Practice\practice.cpp(98,41): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 115 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Practice.vcxproj -> C:\Users\admin\Desktop\대학생\4학년\심전실 과제\2019203010_HW_11\SOURCE\Practice\x64\Release\Practice.exe
